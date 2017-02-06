@@ -11,9 +11,7 @@
     "jstransformer-marked": "^1.0.0",
     "marked": "0.3.x",
     "rupture": "0.6.x",
-    "stylus": "0.52.x"
-  },
-  "devDependencies": {
+    "stylus": "0.52.x",
     "jeet": "^6.1.2"
   }
 }
